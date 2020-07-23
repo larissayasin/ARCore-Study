@@ -1,0 +1,181 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.2.75",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extras" : {
+                "MaxHandle" : 30
+            },
+            "mesh" : 0,
+            "name" : "armacao",
+            "rotation" : [
+                0.7543633580207825,
+                -0.0329362154006958,
+                0.02859819307923317,
+                0.6550063490867615
+            ],
+            "scale" : [
+                0.0015468400670215487,
+                0.0015468400670215487,
+                0.0015468400670215487
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "alphaMode" : "BLEND",
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "Material #84",
+            "normalTexture" : {
+                "index" : 0,
+                "texCoord" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 2,
+                    "texCoord" : 0
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TANGENT" : 2,
+                        "TEXCOORD_0" : 3
+                    },
+                    "indices" : 4,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        },
+        {
+            "source" : 1
+        },
+        {
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "armacao_normals2",
+            "uri" : "armacao_normals2.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "armacao_diffuse",
+            "uri" : "armacao_diffuse.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "armacao_orm",
+            "uri" : "armacao_orm.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 20405,
+            "max" : [
+                51.76795196533203,
+                35.126346588134766,
+                -1.3224296569824219
+            ],
+            "min" : [
+                -52.24156188964844,
+                -40.53966522216797,
+                -37.026424407958984
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 20405,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 20405,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 20405,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5123,
+            "count" : 113952,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 244860,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 244860,
+            "byteOffset" : 244860
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 326480,
+            "byteOffset" : 489720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 163240,
+            "byteOffset" : 816200
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 227904,
+            "byteOffset" : 979440
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1207344,
+            "uri" : "marshal_grau.bin"
+        }
+    ]
+}
