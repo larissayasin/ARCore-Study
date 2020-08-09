@@ -1,0 +1,309 @@
+{
+	"accessors": [
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 37782,
+			"max": [
+				2.776495933532715,
+				1.9913551807403564,
+				-0.059458374977111816
+			],
+			"min": [
+				-2.7764971256256104,
+				-2.215182304382324,
+				-1.8849681615829468
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 37782,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 37782,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 37782,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 4,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 95052,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 5,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 4240,
+			"max": [
+				2.3854289054870605,
+				1.8787310123443604,
+				-0.11999917030334473
+			],
+			"min": [
+				-2.3854293823242188,
+				1.5598698854446411,
+				-1.8037030696868896
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 6,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 4240,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 7,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 4240,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 8,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 4240,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 9,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 22944,
+			"type": "SCALAR"
+		}
+	],
+	"asset": {
+		"generator": "Gestaltor 2020.2.1 Alpha 'Zuckerwatte' (CI-38fb8ee1*)",
+		"version": "2.0"
+	},
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 453384,
+			"byteOffset": 0
+		},
+		{
+			"buffer": 0,
+			"byteLength": 453384,
+			"byteOffset": 453384
+		},
+		{
+			"buffer": 0,
+			"byteLength": 604512,
+			"byteOffset": 906768
+		},
+		{
+			"buffer": 0,
+			"byteLength": 302256,
+			"byteOffset": 1511280
+		},
+		{
+			"buffer": 0,
+			"byteLength": 190104,
+			"byteOffset": 1813536
+		},
+		{
+			"buffer": 0,
+			"byteLength": 50880,
+			"byteOffset": 2003640
+		},
+		{
+			"buffer": 0,
+			"byteLength": 50880,
+			"byteOffset": 2054520
+		},
+		{
+			"buffer": 0,
+			"byteLength": 67840,
+			"byteOffset": 2105400
+		},
+		{
+			"buffer": 0,
+			"byteLength": 33920,
+			"byteOffset": 2173240
+		},
+		{
+			"buffer": 0,
+			"byteLength": 45888,
+			"byteOffset": 2207160
+		}
+	],
+	"buffers": [
+		{
+			"byteLength": 2253048,
+			"uri": "Justin.bin"
+		}
+	],
+	"images": [
+		{
+			"mimeType": "image/jpeg",
+			"name": "Justin_diffuse",
+			"uri": "Justin_diffuse.jpg"
+		},
+		{
+			"mimeType": "image/png",
+			"name": "Justin_orm",
+			"uri": "Justin_orm.png"
+		}
+	],
+	"materials": [
+		{
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "aramacao mat",
+			"occlusionTexture": {
+				"index": 1,
+				"strength": 1.0
+			},
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"baseColorTexture": {
+					"index": 0,
+					"texCoord": 0
+				},
+				"metallicRoughnessTexture": {
+					"index": 1,
+					"texCoord": 0
+				}
+			}
+		},
+		{
+			"alphaMode": "BLEND",
+			"doubleSided": false,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "Lentes mat",
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					0.9599999785423279
+				],
+				"baseColorTexture": {
+					"index": 0
+				},
+				"metallicFactor": 1.0,
+				"metallicRoughnessTexture": {
+					"index": 1
+				},
+				"roughnessFactor": 1.0
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Mesh",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 1,
+						"POSITION": 0,
+						"TANGENT": 2,
+						"TEXCOORD_0": 3
+					},
+					"indices": 4,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "Mesh.001",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 6,
+						"POSITION": 5,
+						"TANGENT": 7,
+						"TEXCOORD_0": 8
+					},
+					"indices": 9,
+					"material": 1,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0,
+			"name": "frente",
+			"rotation": [
+				-0.6556200981140137,
+				0.0,
+				0.0,
+				0.7550908923149109
+			],
+			"scale": [
+				-0.028103195130825043,
+				-0.028103195130825043,
+				-0.028103195130825043
+			]
+		},
+		{
+			"mesh": 1,
+			"name": "Lentes",
+			"rotation": [
+				-0.6556200981140137,
+				0.0,
+				0.0,
+				0.7550908923149109
+			],
+			"scale": [
+				-0.028103195130825043,
+				-0.028103195130825043,
+				-0.028103195130825043
+			]
+		}
+	],
+	"scene": 0,
+	"scenes": [
+		{
+			"name": "Scene",
+			"nodes": [
+				0,
+				1
+			]
+		}
+	],
+	"textures": [
+		{
+			"source": 0
+		},
+		{
+			"source": 1
+		}
+	]
+}

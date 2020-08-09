@@ -1,0 +1,303 @@
+{
+	"accessors": [
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 17370,
+			"max": [
+				73.40203094482422,
+				47.5578727722168,
+				-8.635761260986328
+			],
+			"min": [
+				-73.40203094482422,
+				-55.72803497314453,
+				-51.81507110595703
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 17370,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 17370,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 17370,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 4,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 97392,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 5,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5140,
+			"max": [
+				64.25215911865234,
+				46.372867584228516,
+				-10.227424621582031
+			],
+			"min": [
+				-64.25214385986328,
+				37.894596099853516,
+				-49.900943756103516
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 6,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5140,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 7,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5140,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 8,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5140,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 9,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 29760,
+			"type": "SCALAR"
+		}
+	],
+	"asset": {
+		"generator": "Gestaltor 2020.2.1 Alpha 'Zuckerwatte' (CI-38fb8ee1*)",
+		"version": "2.0"
+	},
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 208440,
+			"byteOffset": 0
+		},
+		{
+			"buffer": 0,
+			"byteLength": 208440,
+			"byteOffset": 208440
+		},
+		{
+			"buffer": 0,
+			"byteLength": 277920,
+			"byteOffset": 416880
+		},
+		{
+			"buffer": 0,
+			"byteLength": 138960,
+			"byteOffset": 694800
+		},
+		{
+			"buffer": 0,
+			"byteLength": 194784,
+			"byteOffset": 833760
+		},
+		{
+			"buffer": 0,
+			"byteLength": 61680,
+			"byteOffset": 1028544
+		},
+		{
+			"buffer": 0,
+			"byteLength": 61680,
+			"byteOffset": 1090224
+		},
+		{
+			"buffer": 0,
+			"byteLength": 82240,
+			"byteOffset": 1151904
+		},
+		{
+			"buffer": 0,
+			"byteLength": 41120,
+			"byteOffset": 1234144
+		},
+		{
+			"buffer": 0,
+			"byteLength": 59520,
+			"byteOffset": 1275264
+		}
+	],
+	"buffers": [
+		{
+			"byteLength": 1334784,
+			"uri": "RB7108L.bin"
+		}
+	],
+	"images": [
+		{
+			"mimeType": "image/jpeg",
+			"name": "RB7108L_diffuse",
+			"uri": "RB7108L_diffuse.jpg"
+		},
+		{
+			"mimeType": "image/png",
+			"name": "RB7108L_ORM",
+			"uri": "RB7108L_ORM.png"
+		}
+	],
+	"materials": [
+		{
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "Armacao mat",
+			"occlusionTexture": {
+				"index": 1,
+				"strength": 1.0
+			},
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 0,
+					"texCoord": 0
+				},
+				"metallicRoughnessTexture": {
+					"index": 1,
+					"texCoord": 0
+				}
+			}
+		},
+		{
+			"alphaMode": "BLEND",
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "Lentes mat",
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					0.05000000074505806
+				],
+				"baseColorTexture": {
+					"index": 0
+				},
+				"metallicFactor": 1.0,
+				"metallicRoughnessTexture": {
+					"index": 1
+				},
+				"roughnessFactor": 1.0
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Mesh",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 1,
+						"POSITION": 0,
+						"TANGENT": 2,
+						"TEXCOORD_0": 3
+					},
+					"indices": 4,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "Mesh.001",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 6,
+						"POSITION": 5,
+						"TANGENT": 7,
+						"TEXCOORD_0": 8
+					},
+					"indices": 9,
+					"material": 1,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0,
+			"name": "Armacao",
+			"rotation": [
+				-0.6558841466903687,
+				0.0,
+				0.0,
+				0.7548615336418152
+			],
+			"scale": [
+				-0.0010920499917119741,
+				-0.0010920499917119741,
+				-0.001046669902279973
+			]
+		},
+		{
+			"mesh": 1,
+			"name": "Lentes",
+			"rotation": [
+				-0.6558841466903687,
+				0.0,
+				0.0,
+				0.7548615336418152
+			],
+			"scale": [
+				-0.0010920499917119741,
+				-0.0010920499917119741,
+				-0.001046669902279973
+			]
+		}
+	],
+	"scene": 0,
+	"scenes": [
+		{
+			"name": "Scene",
+			"nodes": [
+				0,
+				1
+			]
+		}
+	],
+	"textures": [
+		{
+			"source": 0
+		},
+		{
+			"source": 1
+		}
+	]
+}

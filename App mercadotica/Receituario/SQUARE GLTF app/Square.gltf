@@ -1,0 +1,433 @@
+{
+	"accessors": [
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 48012,
+			"max": [
+				29.140762329101563,
+				20.32126808166504,
+				-2.0567617416381836
+			],
+			"min": [
+				-29.007530212402344,
+				-23.69758415222168,
+				-21.93657684326172
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 48012,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 48012,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 48012,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 4,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 82284,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 5,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3948,
+			"max": [
+				27.391754150390625,
+				19.972070693969727,
+				-2.3896570205688477
+			],
+			"min": [
+				-24.10814094543457,
+				13.336909294128418,
+				-21.556720733642578
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 6,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3948,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 7,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3948,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 8,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3948,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 9,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 21240,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 10,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3584,
+			"max": [
+				6.214842796325684,
+				17.4792423248291,
+				-8.072090148925781
+			],
+			"min": [
+				-3.148517608642578,
+				13.975143432617188,
+				-12.646003723144531
+			],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 11,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3584,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 12,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3584,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 13,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 3584,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 14,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 5376,
+			"type": "SCALAR"
+		}
+	],
+	"asset": {
+		"generator": "Gestaltor 2020.2.1 Alpha 'Zuckerwatte' (CI-38fb8ee1*)",
+		"version": "2.0"
+	},
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 576144,
+			"byteOffset": 0
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576144,
+			"byteOffset": 576144
+		},
+		{
+			"buffer": 0,
+			"byteLength": 768192,
+			"byteOffset": 1152288
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384096,
+			"byteOffset": 1920480
+		},
+		{
+			"buffer": 0,
+			"byteLength": 164568,
+			"byteOffset": 2304576
+		},
+		{
+			"buffer": 0,
+			"byteLength": 47376,
+			"byteOffset": 2469144
+		},
+		{
+			"buffer": 0,
+			"byteLength": 47376,
+			"byteOffset": 2516520
+		},
+		{
+			"buffer": 0,
+			"byteLength": 63168,
+			"byteOffset": 2563896
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31584,
+			"byteOffset": 2627064
+		},
+		{
+			"buffer": 0,
+			"byteLength": 42480,
+			"byteOffset": 2658648
+		},
+		{
+			"buffer": 0,
+			"byteLength": 43008,
+			"byteOffset": 2701128
+		},
+		{
+			"buffer": 0,
+			"byteLength": 43008,
+			"byteOffset": 2744136
+		},
+		{
+			"buffer": 0,
+			"byteLength": 57344,
+			"byteOffset": 2787144
+		},
+		{
+			"buffer": 0,
+			"byteLength": 28672,
+			"byteOffset": 2844488
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10752,
+			"byteOffset": 2873160
+		}
+	],
+	"buffers": [
+		{
+			"byteLength": 2883912,
+			"uri": "Square.bin"
+		}
+	],
+	"images": [
+		{
+			"mimeType": "image/jpeg",
+			"name": "Square_diffuse",
+			"uri": "Square_diffuse.jpg"
+		},
+		{
+			"mimeType": "image/png",
+			"name": "Square_ORM",
+			"uri": "Square_ORM.png"
+		}
+	],
+	"materials": [
+		{
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "armacao mat",
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					1.0
+				],
+				"baseColorTexture": {
+					"index": 0,
+					"texCoord": 0
+				},
+				"metallicRoughnessTexture": {
+					"index": 1,
+					"texCoord": 0
+				}
+			}
+		},
+		{
+			"alphaMode": "BLEND",
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "Lentes mat",
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					0.05000000074505806
+				],
+				"baseColorTexture": {
+					"index": 0
+				},
+				"metallicFactor": 1.0,
+				"metallicRoughnessTexture": {
+					"index": 1
+				},
+				"roughnessFactor": 1.0
+			}
+		},
+		{
+			"alphaMode": "BLEND",
+			"doubleSided": true,
+			"emissiveFactor": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"name": "Pontes mat",
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [
+					1.0,
+					1.0,
+					1.0,
+					0.5
+				],
+				"baseColorTexture": {
+					"index": 0
+				},
+				"metallicFactor": 1.0,
+				"metallicRoughnessTexture": {
+					"index": 1
+				},
+				"roughnessFactor": 1.0
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Mesh",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 1,
+						"POSITION": 0,
+						"TANGENT": 2,
+						"TEXCOORD_0": 3
+					},
+					"indices": 4,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "Mesh.001",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 6,
+						"POSITION": 5,
+						"TANGENT": 7,
+						"TEXCOORD_0": 8
+					},
+					"indices": 9,
+					"material": 1,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "Mesh.002",
+			"primitives": [
+				{
+					"attributes": {
+						"NORMAL": 11,
+						"POSITION": 10,
+						"TANGENT": 12,
+						"TEXCOORD_0": 13
+					},
+					"indices": 14,
+					"material": 2,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0,
+			"name": "armacao",
+			"rotation": [
+				-0.6556298136711121,
+				0.03310012444853783,
+				0.038036007434129715,
+				0.7533971071243286
+			],
+			"scale": [
+				-0.002798339817672968,
+				-0.0027983400505036116,
+				-0.0027983395848423243
+			]
+		},
+		{
+			"mesh": 1,
+			"name": "Lentes",
+			"rotation": [
+				-0.6556298136711121,
+				0.03310012444853783,
+				0.038036007434129715,
+				0.7533971071243286
+			],
+			"scale": [
+				-0.002798339817672968,
+				-0.0027983400505036116,
+				-0.0027983395848423243
+			]
+		},
+		{
+			"mesh": 2,
+			"name": "ponte",
+			"rotation": [
+				-0.6556298136711121,
+				0.03310012444853783,
+				0.038036007434129715,
+				0.7533971071243286
+			],
+			"scale": [
+				-0.002798339817672968,
+				-0.0027983400505036116,
+				-0.0027983395848423243
+			]
+		}
+	],
+	"scene": 0,
+	"scenes": [
+		{
+			"name": "Scene",
+			"nodes": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"textures": [
+		{
+			"source": 0
+		},
+		{
+			"source": 1
+		}
+	]
+}
