@@ -1,0 +1,53 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 30.08.2020 19:53:36
+
+newmtl armacao
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 1.0000
+	Pm 1.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd -bm 0.0000 chromance_diffuse.png
+	map_Pr -bm 0.0000 chromance_roughness.png
+	map_Pm -bm 0.0000 chromance_metalic.png
+
+newmtl Lentes
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0500
+	d 0.9500
+	Tf 1.0000 1.0000 1.0000
+	Pr 1.0000
+	Pm 1.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd -bm 0.0000 chromance_diffuse.png
+	map_Pr -bm 0.0000 chromance_roughness.png
+	map_Pm -bm 0.0000 chromance_metalic.png
+
+newmtl Ponte_
+	Kd 0.6431 0.6431 0.6431
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.5000
+	d 0.5000
+	Tf 1.0000 1.0000 1.0000
+	Pr 1.0000
+	Pm 1.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd -bm 0.0000 chromance_diffuse.png
+	map_Pr -bm 0.0000 chromance_roughness.png
+	map_Pm -bm 0.0000 chromance_metalic.png
